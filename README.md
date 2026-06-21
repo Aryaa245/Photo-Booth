@@ -20,6 +20,3 @@ https://photo-booth-production-ba7b.up.railway.app/photobooth
 - 💡 **Countdown Timer** — hitungan mundur sebelum jepretan
 - ⚡ **Flash Effect** — animasi kilatan saat foto diambil
 
----
-dan dimodifikasi.
->>>>>>> a7b2c3850e30da3e1ca892b3a8c972f2b99eb37a
