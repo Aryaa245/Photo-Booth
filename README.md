@@ -2,6 +2,8 @@
 
 Website photobooth digital premium dengan desain dark luxury menggunakan **Laravel** + **Tailwind CSS**.
 
+---
+
 Link deployment :
 https://photo-booth-production-ba7b.up.railway.app/photobooth
 
